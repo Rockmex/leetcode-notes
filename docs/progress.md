@@ -1,0 +1,109 @@
+# My Progress:
+
+> This page is to keep track of all the questions I managed to get done on my own!
+
+---
+
+- [Linked List](TableOfContent?id=linked-list)
+  - Singly Linked List
+    - Easy <font size=4>**(2/7)**</font>
+    - Medium <font size=4>**(0/16)**</font>
+    - Hard <font size=4>**(0/1)**</font>
+  - Doubly Linked List
+    - Easy <font size=4>**(0/2)**</font>
+    - Medium <font size=4>**(0/3)**</font>
+    - Hard <font size=4>**(0/1)**</font>
+- [Tree](TableOfContent?id=tree)
+  - Traversal
+    - Easy <font size=4>**(0/5)**</font>
+    - Medium <font size=4>**(0/3)**</font>
+  - Construction
+    - Easy <font size=4>**(0/1)**</font>
+    - Medium <font size=4>**(0/5)**</font>
+    - Hard <font size=4>**(0/1)**</font>
+  - Path | Depth | Invert
+    - Easy <font size=4>**(0/10)**</font>
+    - Medium <font size=4>**(0/10)**</font>
+    - Hard <font size=4>**(0/2)**</font>
+  - Binary Search Tree
+    - Easy <font size=4>**(0/1)**</font>
+    - Medium <font size=4>**(0/6)**</font>
+  - Dictionary Tree
+    - Easy <font size=4>**(0/1)**</font>
+    - Medium <font size=4>**(0/3)**</font>
+    - Hard <font size=4>**(0/1)**</font>
+  - Segment Tree
+    - Medium <font size=4>**(0/2)**</font>
+    - Hard <font size=4>**(0/8)**</font>
+- [Stack](TableOfContent?id=stack)
+  - Basic:
+    - Easy <font size=4>**(0/8)**</font>
+    - Medium <font size=4>**(0/9)**</font>
+    - Hard <font size=4>**(0/2)**</font>
+  - Monotone Stack
+    - Easy <font size=4>**(0/1)**</font>
+    - Medium <font size=4>**(0/4)**</font>
+    - Hard <font size=4>**(0/4)**</font>
+- [Heap](TableOfContent?id=heap)
+  - Easy <font size=4>**(0/2)**</font>
+  - Medium <font size=4>**(0/8)**</font>
+  - Hard <font size=4>**(0/3)**</font>
+- [Binary Search](TableOfContent?id=binary-search)
+  - Easy <font size=4>**(0/6)**</font>
+  - Medium <font size=4>**(0/16)**</font>
+  - Hard <font size=4>**(0/4)**</font>
+- [Bitwise Operation](TableOfContent?id=bitwise-operation)
+  - Easy <font size=4>**(0/9)**</font>
+  - Medium <font size=4>**(0/8)**</font>
+- [Two-Pointer and Sliding Window](TableOfContent?id=two-pointer-and-sliding-window)
+  - Easy <font size=4>**(0/11)**</font>
+  - Medium <font size=4>**(0/11)**</font>
+  - Hard <font size=4>**(0/2)**</font>
+- [Matrix](TableOfContent?id=matrix)
+  - Easy <font size=4>**(0/2)**</font>
+  - Medium <font size=4>**(0/4)**</font>
+- [Dynamic Programming](TableOfContent?id=dynamic-programming)
+  - 1 Dimensional
+    - Easy <font size=4>**(0/4)**</font>
+    - Medium <font size=4>**(0/9)**</font>
+    - Hard <font size=4>**(0/3)**</font>
+  - 2 Dimensional
+    - Medium <font size=4>**(0/9)**</font>
+    - Hard <font size=4>**(0/6)**</font>
+- [Graph](TableOfContent?id=graph)
+  - DFS
+    - Medium <font size=4>**(0/9)**</font>
+    - Hard <font size=4>**(0/1)**</font>
+  - BFS
+    - Easy <font size=4>**(0/1)**</font>
+    - Medium <font size=4>**(0/9)**</font>
+    - Hard <font size=4>**(0/5)**</font>
+  - Dijkstra
+    - Medium <font size=4>**(0/1)**</font>
+  - Topological Sort
+    - Medium <font size=4>**(0/2)**</font>
+    - Hard <font size=4>**(0/2)**</font>
+- [Disjoint Set](TableOfContent?id=disjoint-set)
+  - Medium <font size=4>**(0/8)**</font>
+  - Hard <font size=4>**(0/2)**</font>
+- [Design](TableOfContent?id=design)
+  - Easy <font size=4>**(0/4)**</font>
+  - Medium <font size=4>**(0/9)**</font>
+- [Greedy](TableOfContent?id=greedy)
+  - Medium <font size=4>**(0/5)**</font>
+- [Backtracking](TableOfContent?id=backtracking)
+  - Medium <font size=4>**(0/14)**</font>
+  - Hard <font size=4>**(0/4)**</font>
+- [Clone](TableOfContent?id=clone)
+  - Medium <font size=4>**(0/2)**</font>
+- [Math](TableOfContent?id=math)
+  - Easy <font size=4>**(0/5)**</font>
+  - Medium <font size=4>**(0/3)**</font>
+  - Hard <font size=4>**(0/1)**</font>
+- [Minimax](TableOfContent?id=minimax)
+  - Easy <font size=4>**(0/1)**</font>
+  - Medium <font size=4>**(0/4)**</font>
+- [Geometry](TableOfContent?id=geometry)
+  - Easy <font size=4>**(0/3)**</font>
+  - Medium <font size=4>**(0/2)**</font>
+  - Hard <font size=4>**(0/2)**</font>

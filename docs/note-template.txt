@@ -1,0 +1,27 @@
+# 141. QuestionName (Difficulty):
+
+## Question Description:
+![Question](Question.PNG)
+
+![Example 1](example1.PNG)
+
+![Example 2](example2.PNG)
+
+![Example 3](example3.PNG)
+
+---
+## My solution:
+
+Explanations goes here...
+
+![Explanation](explanation.PNG)
+
+```java
+solution code here.
+```
+
+---
+## Efficiency Analysis:
+>Runtime: O(n), explanation
+>
+>Memory: O(1), explanation
