@@ -1,20 +1,20 @@
-# 141. QuestionName (Difficulty):
+# QuestionName (Difficulty):
 
 ## Question Description:
-![Question](Question.PNG)
+![Question](Questionimage)
 
-![Example 1](example1.PNG)
+![Example 1](example1image)
 
-![Example 2](example2.PNG)
+![Example 2](example2image)
 
-![Example 3](example3.PNG)
+![Example 3](example3image)
 
 ---
 ## My solution:
 
 Explanations goes here...
 
-![Explanation](explanation.PNG)
+![Explanation](explanationimage)
 
 ```java
 solution code here.
@@ -22,6 +22,6 @@ solution code here.
 
 ---
 ## Efficiency Analysis:
->Runtime: O(n), explanation
+>Runtime: <font size=4>**O(1)**</font>, explanation
 >
->Memory: O(1), explanation
+>Memory: <font size=4>**O(1)**</font>, our solution did not use any additional data structure to store data.
