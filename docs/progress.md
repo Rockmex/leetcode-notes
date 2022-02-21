@@ -6,8 +6,8 @@
 
 - [Linked List](TableOfContent?id=linked-list)
   - Singly Linked List
-    - Easy <font size=4>**(2/7)**</font>
-    - Medium <font size=4>**(0/16)**</font>
+    - Easy <font size=4>**(7/7)**</font>
+    - Medium <font size=4>**(1/16)**</font>
     - Hard <font size=4>**(0/1)**</font>
   - Doubly Linked List
     - Easy <font size=4>**(0/2)**</font>
