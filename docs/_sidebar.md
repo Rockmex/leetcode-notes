@@ -12,6 +12,7 @@
       * [203. Remove Linked List Elements](LinkedList/Singly%20Linked%20List/Easy/203.%20Remove%20Linked%20List%20Elements.md)
       * [206. Reverse Linked List](LinkedList/Singly%20Linked%20List/Easy/206.%20Reverse%20Linked%20List.md)
       * [234. Palindrome Linked List](LinkedList/Singly%20Linked%20List/Easy/234.%20Palindrome%20Linked%20List.md)
+      * [237. Delete Node in a Linked List](LinkedList/Singly%20Linked%20List/Easy/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     * [Medium]()
     * [Hard]()
   * [Doubly Linked List]()
