@@ -1,4 +1,4 @@
-# QuestionName (Difficulty):
+# QuestionName (<span style="color:orange">Difficulty</span>):
 
 ## Question Description:
 ![Question](Questionimage)
