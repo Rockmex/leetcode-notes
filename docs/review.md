@@ -8,4 +8,4 @@
 
 <h3> List of Problems </h3>
 
-> [82. Remove Duplicates from Sorted List II](LinkedList/Singly%20Linked%20List/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md). Reviewed (0/5).
+> [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/). Reviewed (0/5).
