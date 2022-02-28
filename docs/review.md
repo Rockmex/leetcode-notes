@@ -8,4 +8,8 @@
 
 <h3> List of Problems </h3>
 
-> [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/). Reviewed (0/5).
+> [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/). Reviewed (3/5).
+>
+> [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/). Reviewed (2/5).
+>
+> [148. Sort List](https://leetcode.com/problems/sort-list/). Reviewed (1/5).
