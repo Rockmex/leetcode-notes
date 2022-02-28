@@ -16,6 +16,7 @@
       * [876. Middle of the Linked List](LinkedList/Singly%20Linked%20List/Easy/876.%20Middle%20of%20the%20Linked%20List.md)
     * [Medium]()
       * [82. Remove Duplicates from Sorted List II](LinkedList/Singly%20Linked%20List/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+      * [86. Partition List](LinkedList/Singly%20Linked%20List/Medium/86.%20Partition%20List.md)
       * [92. Reverse Linked List II](LinkedList/Singly%20Linked%20List/Medium/92.%20Reverse%20Linked%20List%20II.md)
       * [143. Reorder List](LinkedList/Singly%20Linked%20List/Medium/143.%20Reorder%20List.md)
     * [Hard]()
